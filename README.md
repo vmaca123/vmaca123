@@ -1,0 +1,10 @@
+# 👋 vmaca123
+
+보안 · 데이터 · 자동화에 관심 있는 개발자입니다.
+
+## 🛠️ Interests
+- 멀티마켓 데이터 수집 · 분석 파이프라인
+- AI 가드레일 / 보안 연구
+
+## 📊 Data Sources
+Crypto event & listing calendar data powered by [Coindar](https://coindar.org).
