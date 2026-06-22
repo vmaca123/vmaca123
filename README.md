@@ -7,4 +7,6 @@
 - AI 가드레일 / 보안 연구
 
 ## 📊 Data Sources
-Crypto event & listing calendar data powered by [Coindar](https://coindar.org).
+This profile and related tools use crypto event & listing calendar data powered by **[Coindar](https://coindar.org)**.
+
+> Crypto calendar data: [Coindar](https://coindar.org)
